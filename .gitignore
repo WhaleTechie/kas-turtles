@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# === kas-turtles project-specific ===
+data/photos/
+.venv/
+notebooks/.ipynb_checkpoints/
